@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.cart-container {
+  width: 100%;
+}
+
+.img-container {
+  width: 50%;
+  height: 50%;
+}
+.cart-image {
+  width: 50%;
+}
